@@ -1,2 +1,2 @@
-# hapi-rest-ian
-hapi-rest-demo
+# hapi-rest-demo
+A SpiderTutorial Demo project
